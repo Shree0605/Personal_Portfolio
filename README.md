@@ -11,6 +11,6 @@ Welcome to my personal portfolio! Here, you'll find information about me, my ski
 
 # Demo
 
-[Link to live demo](https://github.com/Shree0605/Personal_Portfolio/assets/155527405/d886677d-7adc-4135-be97-553a4b2910ee)
+[Link to live demo](https://github.com/Shree0605/Personal_Portfolio/assets/155527405/61cbdd69-4087-4ccc-9e5d-c71b48c4605b)
 
 Thank you for visiting my portfolio!
